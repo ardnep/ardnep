@@ -2,6 +2,8 @@
 I'm an aspiring Software Engineer, currently pursuing a degree in Computer Science. I am passionate about building software that is efficient, scalable, and user-friendly.
 
 I genuinely enjoy learning, particularly when it involves topics that lie at the intersection of multiple disciplines. In my free time, you'll often find me tinkering with side projects and building fully automated workflows.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arnep&theme=holi&show_icons=true)
 <!--
 **ardnep/ardnep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
