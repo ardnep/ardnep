@@ -1,8 +1,6 @@
-### 🌙 Evening,
+### Evening,how do?
 
-#### Software Engineer • Student
-
-#### [Checkout my website](https://www.aaradh.com.np/)
+### [Checkout my website](https://www.aaradh.com.np/)
 <!--
 **ardnep/ardnep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
